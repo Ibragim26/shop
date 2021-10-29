@@ -107,8 +107,11 @@ a {
 table a:hover {
     text-decoration: underline;
     color: green;
-}
 
+}
+tr:hover{
+    background-color: yellow;
+}
 a:hover{
     text-decoration: underline;
 }
