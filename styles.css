@@ -104,7 +104,12 @@ a {
     text-decoration: none;
 }
 
-a:hover {
+table a:hover {
+    text-decoration: underline;
+    color: green;
+}
+
+a:hover{
     text-decoration: underline;
 }
 
@@ -122,5 +127,9 @@ body{
 nav{
     margin-top: 20px;
     align-items: center;
+}
+
+td:hover{
+    color: red;
 }
 
